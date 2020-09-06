@@ -1,0 +1,16 @@
+{
+    "type": "curse",
+    "common": {
+        "side": "CLIENT",
+        "description": "Unique looks for different enchantment books",
+        "optionalData": {
+            "selected": true
+        },
+        "dependencies": {
+            "fabric-api": "REQUIRED"
+        }
+    },
+    "projectID": 369122,
+    "fileID": 3031287,
+    "skipFingerprintCheck": true
+}

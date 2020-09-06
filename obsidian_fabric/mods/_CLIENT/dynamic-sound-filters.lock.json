@@ -1,0 +1,15 @@
+{
+    "type": "curse",
+    "common": {
+        "side": "CLIENT",
+        "description": "Affects how sounds are played depending on location",
+        "optionalData": {
+        },
+        "dependencies": {
+            "fabric-api": "REQUIRED"
+        }
+    },
+    "projectID": 392101,
+    "fileID": 3029490,
+    "skipFingerprintCheck": true
+}

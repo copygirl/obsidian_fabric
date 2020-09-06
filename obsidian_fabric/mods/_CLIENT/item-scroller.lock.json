@@ -1,0 +1,15 @@
+{
+    "type": "curse",
+    "common": {
+        "side": "CLIENT",
+        "description": "Use scroll wheel and other shortcuts to move items",
+        "optionalData": {
+        },
+        "dependencies": {
+            "malilib": "REQUIRED"
+        }
+    },
+    "projectID": 242064,
+    "fileID": 3030382,
+    "skipFingerprintCheck": true
+}

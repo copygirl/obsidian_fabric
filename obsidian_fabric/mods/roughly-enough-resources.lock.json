@@ -1,0 +1,11 @@
+{
+    "type": "curse",
+    "common": {
+        "dependencies": {
+            "roughly-enough-items": "REQUIRED"
+        }
+    },
+    "projectID": 325625,
+    "fileID": 3032365,
+    "skipFingerprintCheck": true
+}

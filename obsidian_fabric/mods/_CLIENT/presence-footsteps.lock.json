@@ -1,0 +1,12 @@
+{
+    "type": "curse",
+    "common": {
+        "side": "CLIENT",
+        "description": "Footstep and shuffling sounds depending on materials",
+        "optionalData": {
+        }
+    },
+    "projectID": 334259,
+    "fileID": 3042936,
+    "skipFingerprintCheck": true
+}

@@ -1,0 +1,12 @@
+{
+    "type": "curse",
+    "common": {
+        "dependencies": {
+            "fabric-language-kotlin": "REQUIRED",
+            "fabric-api": "REQUIRED"
+        }
+    },
+    "projectID": 320215,
+    "fileID": 3033861,
+    "skipFingerprintCheck": true
+}
