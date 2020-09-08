@@ -1,0 +1,12 @@
+{
+    "type": "curse",
+    "common": {
+        "side": "CLIENT",
+        "description": "Minimap and world map",
+        "optionalData": {
+        }
+    },
+    "projectID": 225179,
+    "fileID": 3030030,
+    "skipFingerprintCheck": true
+}

@@ -20,12 +20,6 @@ root<Curse> {
         common.validMcVersions   = setOf("1.16", "1.16.1")
         common.invalidMcVersions = setOf("Forge")
 
-        // Libraries
-        // TODO: Dependencies currently don't inherit validMcVersions. (Fixed in Voodoo 0.5.20.)
-        // +Mod.cotton
-        // +Mod.cottonResources
-        +Mod.fabricLanguageKotlin
-
         // Optimization and Fixes
         +Mod.lithium  // General-purpose server optimization
         // TODO: +Mod.phosphor // Optimize the lighting engine
@@ -33,6 +27,7 @@ root<Curse> {
         // Tweaks and Utilities
         +Mod.appleskin              // Displays hunger/saturation information
         +Mod.darkLoadingScreen      // Red is dead!
+        +Mod.hwyla                  // Shows what you're looking at
         +Mod.roughlyEnoughItems     // Like JEI, displays recipes and uses
         +Mod.roughlyEnoughResources // Like JER, displays block and mob drops
         +Mod.shulkerboxtooltip      // Show shulker box contents when hovering over them
@@ -113,8 +108,10 @@ root<Curse> {
             group {
                 optional { selected = true }
             }.list {
-                +Mod.controllingForFabric { description = "Improves controls with search, showing conflicts" }
                 +Mod.betterEnchantedBooks { description = "Unique looks for different enchantment books" }
+                +Mod.controllingForFabric { description = "Improves controls with search, showing conflicts" }
+                +Mod.dynamicFps           { description = "Reduce FPS when window is in background" }
+                +Mod.illuminations        { description = "Adds pretty-looking glowing parties" }
                 // +Mod.sodium               { description = "Render engine replacement (high FPS boost)" }
             }
 
@@ -124,7 +121,11 @@ root<Curse> {
             }.list {
                 +Mod.dynamicSoundFilters { description = "Affects how sounds are played depending on location" }
                 +Mod.itemScroller        { description = "Use scroll wheel and other shortcuts to move items" }
+                +Mod.lightOverlay        { description = "Show blocks mobs can spawn by pressing F7" }
                 +Mod.presenceFootsteps   { description = "Footstep and shuffling sounds depending on materials" }
+                +Mod.voxelmap            { description = "Minimap and world map" }
+                +Mod.xaerosMinimap       { description = "Minimap to go along with Xaero's World Map" }
+                +Mod.xaerosWorldMap      { description = "World map to go along with Xaero's Minimap" }
             }
         }
     }

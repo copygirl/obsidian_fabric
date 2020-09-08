@@ -1,0 +1,15 @@
+{
+    "type": "curse",
+    "common": {
+        "side": "CLIENT",
+        "description": "Show blocks mobs can spawn by pressing F7",
+        "optionalData": {
+        },
+        "dependencies": {
+            "cloth-config-forge": "REQUIRED"
+        }
+    },
+    "projectID": 325492,
+    "fileID": 3048973,
+    "skipFingerprintCheck": true
+}

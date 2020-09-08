@@ -1,0 +1,16 @@
+{
+    "type": "curse",
+    "common": {
+        "side": "CLIENT",
+        "description": "Adds pretty-looking glowing parties",
+        "optionalData": {
+            "selected": true
+        },
+        "dependencies": {
+            "fabric-api": "REQUIRED"
+        }
+    },
+    "projectID": 292908,
+    "fileID": 3032270,
+    "skipFingerprintCheck": true
+}

@@ -1,0 +1,16 @@
+{
+    "type": "curse",
+    "common": {
+        "side": "CLIENT",
+        "description": "Reduce FPS when window is in background",
+        "optionalData": {
+            "selected": true
+        },
+        "dependencies": {
+            "fabric-api": "REQUIRED"
+        }
+    },
+    "projectID": 335493,
+    "fileID": 3032511,
+    "skipFingerprintCheck": true
+}
