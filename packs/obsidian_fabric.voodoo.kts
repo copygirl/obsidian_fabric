@@ -76,7 +76,6 @@ root<Curse> {
         +Mod.ducts                  // Expanding on Hoppers
         +Mod.immersivePortalsMod    // See-through portals and seamless travel
         +Mod.linkedStorage          // Basically Ender Storage
-        +Mod.modularItemFrameFabric // (Item) frames that can do just about anything
         +Mod.netheriteHorseArmor    // Upgrade diamond horse armor to netherite tier
         +Mod.respawnablePets        // Item that allows your pets to respawn when sleeping
         +Mod.rswires                // RedPower2-like redstones wires and bundled cables
