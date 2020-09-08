@@ -1,6 +1,6 @@
 title     = "obsidian 1.16 Fabric Modpack"
 authors   = listOf("copygirl")
-version   = "0.0.1"
+version   = "0.1.0"
 icon      = rootFolder.resolve("icon.png")
 
 mcVersion = "1.16.2"
