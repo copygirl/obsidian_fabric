@@ -35,8 +35,6 @@ root<Curse> {
         // Gameplay Changes
         +Mod.anvilFix              // Removes the "Too Expensive" limit
         +Mod.chainsLink            // Pistons move connected chain blocks
-        +Mod.easiervillagertrading // Trades are only one click away
-        +Mod.fabricPassableLeaves  // No more jumping on trees!
         +Mod.fairenchanting        // Pay fairly in XP, rather than levels
         +Mod.grindEnchantments     // Use Grindstone to remove enchantments
         +Mod.stackablepotions      // Stack potions up to 16
@@ -124,8 +122,6 @@ root<Curse> {
                 +Mod.lightOverlay        { description = "Show blocks mobs can spawn by pressing F7" }
                 +Mod.presenceFootsteps   { description = "Footstep and shuffling sounds depending on materials" }
                 +Mod.voxelmap            { description = "Minimap and world map" }
-                +Mod.xaerosMinimap       { description = "Minimap to go along with Xaero's World Map" }
-                +Mod.xaerosWorldMap      { description = "World map to go along with Xaero's Minimap" }
             }
         }
     }
