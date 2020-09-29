@@ -2,10 +2,10 @@
     "type": "curse",
     "common": {
         "dependencies": {
-            "fabric-api": "REQUIRED"
+            "reborncore": "REQUIRED"
         }
     },
-    "projectID": 391366,
-    "fileID": 3067607,
+    "projectID": 233564,
+    "fileID": 3060565,
     "skipFingerprintCheck": true
 }

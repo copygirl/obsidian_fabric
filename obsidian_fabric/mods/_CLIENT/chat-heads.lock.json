@@ -2,11 +2,11 @@
     "type": "curse",
     "common": {
         "side": "CLIENT",
-        "description": "Minimap and world map",
+        "description": "See players' heads next to their chat messages",
         "optionalData": {
         }
     },
-    "projectID": 225179,
-    "fileID": 3058801,
+    "projectID": 407206,
+    "fileID": 3057632,
     "skipFingerprintCheck": true
 }
