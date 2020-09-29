@@ -1,11 +1,7 @@
 {
     "type": "curse",
     "common": {
-        "side": "CLIENT",
-        "description": "Improves controls with search, showing conflicts",
-        "optionalData": {
-            "selected": true
-        }
+        "side": "CLIENT"
     },
     "projectID": 308841,
     "fileID": 3039289,

@@ -4,6 +4,7 @@
         "side": "CLIENT",
         "description": "Footstep and shuffling sounds depending on materials",
         "optionalData": {
+            "selected": true
         }
     },
     "projectID": 334259,

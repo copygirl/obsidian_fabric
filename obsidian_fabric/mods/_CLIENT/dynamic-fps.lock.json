@@ -4,7 +4,6 @@
         "side": "CLIENT",
         "description": "Reduce FPS when window is in background",
         "optionalData": {
-            "selected": true
         },
         "dependencies": {
             "fabric-api": "REQUIRED"

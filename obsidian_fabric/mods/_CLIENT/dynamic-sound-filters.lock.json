@@ -4,6 +4,7 @@
         "side": "CLIENT",
         "description": "Affects how sounds are played depending on location",
         "optionalData": {
+            "selected": true
         },
         "dependencies": {
             "fabric-api": "REQUIRED"

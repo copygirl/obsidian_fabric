@@ -1,10 +1,7 @@
 {
     "type": "curse",
     "common": {
-        "side": "CLIENT",
-        "description": "See players' heads next to their chat messages",
-        "optionalData": {
-        }
+        "side": "CLIENT"
     },
     "projectID": 407206,
     "fileID": 3057632,

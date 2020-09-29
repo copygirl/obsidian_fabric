@@ -104,29 +104,29 @@ root<Curse> {
         }.list {
             // CLIENT REQUIRED MODS
             +Mod.modmenu
+            +Mod.betterEnchantedBooks { common.invalidMcVersions = setOf("1.16.1") } // Unique looks for different enchantment books
+            +Mod.chatHeads            // See players' heads next to their chat messages
+            +Mod.controllingForFabric // Improves controls with search, showing conflicts
+            +Mod.illuminations        { fileID = FileID(3062304) } // Adds pretty-looking glowing parties
+            +Mod.lightOverlay         // Show blocks mobs can spawn by pressing F7
+            +Mod.voxelmap             { fileID = FileID(3058801) } // Minimap, world map and waypoints
 
             // CLIENT RECOMMENDED MODS
             group {
                 optional { selected = true }
             }.list {
-                +Mod.betterEnchantedBooks { common.invalidMcVersions = setOf("1.16.1"); description = "Unique looks for different enchantment books" }
-                +Mod.controllingForFabric { description = "Improves controls with search, showing conflicts" }
-                +Mod.dynamicFps           { description = "Reduce FPS when window is in background" }
-                +Mod.illuminations        { fileID = FileID(3062304); description = "Adds pretty-looking glowing parties" }
+                +Mod.dynamicSoundFilters { description = "Affects how sounds are played depending on location" }
+                +Mod.itemScroller        { description = "Use scroll wheel and other shortcuts to move items" }
+                +Mod.presenceFootsteps   { description = "Footstep and shuffling sounds depending on materials" }
                 // TODO: Immersive Portals not supported (yet?)
-                // +Mod.sodium               { description = "Render engine replacement (high FPS boost)" }
+                // +Mod.sodium              { description = "Render engine replacement (high FPS boost)" }
             }
 
             // CLIENT OPTIONAL MODS
             group {
                 optional { selected = false }
             }.list {
-                +Mod.chatHeads           { description = "See players' heads next to their chat messages" }
-                +Mod.dynamicSoundFilters { description = "Affects how sounds are played depending on location" }
-                +Mod.itemScroller        { description = "Use scroll wheel and other shortcuts to move items" }
-                +Mod.lightOverlay        { description = "Show blocks mobs can spawn by pressing F7" }
-                +Mod.presenceFootsteps   { description = "Footstep and shuffling sounds depending on materials" }
-                +Mod.voxelmap            { fileID = FileID(3058801); description = "Minimap and world map" }
+                +Mod.dynamicFps { description = "Reduce FPS when window is in background" }
             }
         }
     }

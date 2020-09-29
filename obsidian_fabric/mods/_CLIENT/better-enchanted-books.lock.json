@@ -2,10 +2,6 @@
     "type": "curse",
     "common": {
         "side": "CLIENT",
-        "description": "Unique looks for different enchantment books",
-        "optionalData": {
-            "selected": true
-        },
         "dependencies": {
             "fabric-api": "REQUIRED"
         }
