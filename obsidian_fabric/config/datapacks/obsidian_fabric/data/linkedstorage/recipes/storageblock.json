@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "IWI",
+    "SCS",
+    "SES"
+  ],
+  "key": {
+    "I": { "item": "endreborn:endorium_ingot" },
+    "W": { "item": "minecraft:white_wool" },
+    "S": { "item": "minecraft:end_stone" },
+    "C": { "item": "minecraft:ender_chest" },
+    "E": { "item": "minecraft:ender_eye" }
+  },
+  "result": { "item": "linkedstorage:storageblock" }
+}
