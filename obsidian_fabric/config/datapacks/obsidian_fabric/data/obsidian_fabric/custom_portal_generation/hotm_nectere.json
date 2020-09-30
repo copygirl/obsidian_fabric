@@ -1,0 +1,14 @@
+{
+  "schema_version": "imm_ptl:v1",
+  "from": [ "minecraft:overworld" ],
+  "to": "hotm:nectere",
+  "form": {
+    "type": "imm_ptl:classical",
+    "from_frame_block": "hotm:glowy_obelisk_part",
+    "area_block": "minecraft:air",
+    "to_frame_block": "hotm:glowy_obelisk_part",
+    "generate_frame_if_not_found": false
+  },
+  "trigger": { "type": "imm_ptl:throw_item", "item": "minecraft:piston" },
+  "post_invoke_commands": [ "/playsound minecraft:block.piston.contract player @a ~ ~ ~" ]
+}
