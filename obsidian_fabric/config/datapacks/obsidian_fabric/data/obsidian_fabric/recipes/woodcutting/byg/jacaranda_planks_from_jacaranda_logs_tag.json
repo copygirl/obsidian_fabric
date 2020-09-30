@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:jacaranda_logs"
+  },
+  "result": "byg:jacaranda_planks",
+  "count": 6
+}

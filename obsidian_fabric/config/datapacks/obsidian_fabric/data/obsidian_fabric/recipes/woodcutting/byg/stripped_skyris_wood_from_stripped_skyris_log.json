@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:stripped_skyris_log"
+  },
+  "result": "byg:stripped_skyris_wood",
+  "count": 1
+}

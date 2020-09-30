@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:green_enchanted_logs"
+  },
+  "result": "byg:green_enchanted_planks",
+  "count": 6
+}

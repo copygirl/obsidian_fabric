@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:palo_verde_log"
+  },
+  "result": "byg:stripped_palo_verde_log",
+  "count": 1
+}

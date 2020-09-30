@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:rainbow_eucalyptus_log"
+  },
+  "result": "byg:rainbow_eucalyptus_wood",
+  "count": 1
+}

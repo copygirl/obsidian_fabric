@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "techreborn:rubber_log_stripped"
+  },
+  "result": "techreborn:stripped_rubber_wood",
+  "count": 1
+}

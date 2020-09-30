@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:zelkova_log"
+  },
+  "result": "byg:zelkova_wood",
+  "count": 1
+}

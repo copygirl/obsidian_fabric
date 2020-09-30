@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:maple_log"
+  },
+  "result": "byg:stripped_maple_log",
+  "count": 1
+}

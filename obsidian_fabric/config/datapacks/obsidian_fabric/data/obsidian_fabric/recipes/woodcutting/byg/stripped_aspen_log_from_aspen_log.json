@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:aspen_log"
+  },
+  "result": "byg:stripped_aspen_log",
+  "count": 1
+}

@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "techreborn:rubber_logs"
+  },
+  "result": "techreborn:rubber_planks",
+  "count": 6
+}

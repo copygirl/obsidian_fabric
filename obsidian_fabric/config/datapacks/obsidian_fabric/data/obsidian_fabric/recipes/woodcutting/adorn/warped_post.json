@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "minecraft:warped_planks"
+  },
+  "result": "adorn:warped_post",
+  "count": 2
+}

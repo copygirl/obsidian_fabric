@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:mahogany_planks"
+  },
+  "result": "byg:mahogany_fence",
+  "count": 1
+}

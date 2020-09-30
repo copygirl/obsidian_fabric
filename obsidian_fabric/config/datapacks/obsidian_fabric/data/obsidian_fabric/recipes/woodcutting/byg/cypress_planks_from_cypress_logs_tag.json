@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:cypress_logs"
+  },
+  "result": "byg:cypress_planks",
+  "count": 6
+}

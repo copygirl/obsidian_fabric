@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:cherry_logs"
+  },
+  "result": "byg:cherry_planks",
+  "count": 6
+}

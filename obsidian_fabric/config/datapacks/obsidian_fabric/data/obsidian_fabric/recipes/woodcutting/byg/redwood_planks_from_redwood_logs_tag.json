@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:redwood_logs"
+  },
+  "result": "byg:redwood_planks",
+  "count": 6
+}

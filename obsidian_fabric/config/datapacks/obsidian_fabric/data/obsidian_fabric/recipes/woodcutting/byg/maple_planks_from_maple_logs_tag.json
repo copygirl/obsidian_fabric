@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:maple_logs"
+  },
+  "result": "byg:maple_planks",
+  "count": 6
+}

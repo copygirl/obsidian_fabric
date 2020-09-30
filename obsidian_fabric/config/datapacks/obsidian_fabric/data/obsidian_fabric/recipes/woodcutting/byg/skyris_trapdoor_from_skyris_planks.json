@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:skyris_planks"
+  },
+  "result": "byg:skyris_trapdoor",
+  "count": 1
+}

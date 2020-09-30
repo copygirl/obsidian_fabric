@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:fir_logs"
+  },
+  "result": "byg:fir_planks",
+  "count": 6
+}

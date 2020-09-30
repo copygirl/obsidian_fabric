@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:baobab_logs"
+  },
+  "result": "byg:baobab_planks",
+  "count": 6
+}

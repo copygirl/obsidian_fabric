@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:willow_log"
+  },
+  "result": "byg:willow_wood",
+  "count": 1
+}

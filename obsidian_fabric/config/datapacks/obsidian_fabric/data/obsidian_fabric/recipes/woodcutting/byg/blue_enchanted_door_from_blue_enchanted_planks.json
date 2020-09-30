@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:blue_enchanted_planks"
+  },
+  "result": "byg:blue_enchanted_door",
+  "count": 1
+}

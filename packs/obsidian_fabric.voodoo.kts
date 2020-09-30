@@ -23,6 +23,7 @@ root<Curse> {
         common.invalidMcVersions = setOf("Forge")
 
         // Libraries
+        +Mod.dataLoader
         +Mod.fabricApi { fileID = FileID(3066731) }
 
         // Optimization and Fixes

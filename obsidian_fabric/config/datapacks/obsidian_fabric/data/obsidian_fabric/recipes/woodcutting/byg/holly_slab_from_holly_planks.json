@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:holly_planks"
+  },
+  "result": "byg:holly_slab",
+  "count": 2
+}

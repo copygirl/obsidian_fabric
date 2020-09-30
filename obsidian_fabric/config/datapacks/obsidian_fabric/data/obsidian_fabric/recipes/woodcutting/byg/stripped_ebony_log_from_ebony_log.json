@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:ebony_log"
+  },
+  "result": "byg:stripped_ebony_log",
+  "count": 1
+}

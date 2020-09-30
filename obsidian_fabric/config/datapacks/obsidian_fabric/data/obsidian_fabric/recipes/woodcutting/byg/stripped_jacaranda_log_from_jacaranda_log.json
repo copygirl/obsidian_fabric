@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:jacaranda_log"
+  },
+  "result": "byg:stripped_jacaranda_log",
+  "count": 1
+}

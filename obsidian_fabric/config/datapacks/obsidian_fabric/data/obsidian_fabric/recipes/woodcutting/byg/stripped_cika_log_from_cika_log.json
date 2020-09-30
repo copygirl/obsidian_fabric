@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:cika_log"
+  },
+  "result": "byg:stripped_cika_log",
+  "count": 1
+}

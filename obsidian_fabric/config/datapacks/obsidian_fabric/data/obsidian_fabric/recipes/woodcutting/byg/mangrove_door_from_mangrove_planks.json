@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:mangrove_planks"
+  },
+  "result": "byg:mangrove_door",
+  "count": 1
+}

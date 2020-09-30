@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:ebony_logs"
+  },
+  "result": "byg:ebony_planks",
+  "count": 6
+}

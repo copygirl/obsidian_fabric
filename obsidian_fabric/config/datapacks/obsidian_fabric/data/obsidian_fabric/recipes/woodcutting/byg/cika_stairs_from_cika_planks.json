@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:cika_planks"
+  },
+  "result": "byg:cika_stairs",
+  "count": 1
+}

@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:zelkova_logs"
+  },
+  "result": "byg:zelkova_planks",
+  "count": 6
+}

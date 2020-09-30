@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:stripped_mangrove_log"
+  },
+  "result": "byg:stripped_mangrove_wood",
+  "count": 1
+}

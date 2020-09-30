@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:baobab_planks"
+  },
+  "result": "byg:baobab_trapdoor",
+  "count": 1
+}
