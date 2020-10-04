@@ -1,6 +1,6 @@
 [RSDungeonsConfig]
 addDungeonsToModdedBiomes = true
-blacklistedDungeonBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedDungeonBiomes = ""
 
 [RSDungeonsConfig.spawnrate]
 badlandsDungeonSpawnrate = 8
@@ -37,30 +37,35 @@ swampDungeonMaxHeight = 255
 endDungeonMaxHeight = 255
 netherDungeonMaxHeight = 255
 oceanDungeonMaxHeight = 255
+[RSMainConfig]
+blacklistedDimensions = "the_bumblezone:the_bumblezone,hotm:nectere"
+
 [RSMainConfig.misc]
 addSwampTreeToModdedBiomes = true
 addBoulderToModdedBiomes = false
-blacklistedSwampTreeBiomes = "hotm:thinking_forest,hotm:wasteland"
-blacklistedBoulderBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedSwampTreeBiomes = ""
+blacklistedBoulderBiomes = ""
 hornedSwampTree = true
 boulderTiny = true
 boulderGiant = true
 diamondChanceInGiantBoulders = 7000
 giantBouldersPerChunk = 1.0
+
 [RSMainConfig.jungleFortress]
 jungleFortressSpawnrate = 32
 addJungleFortressToModdedBiomes = true
-blacklistedFortressBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedFortressBiomes = ""
 silverfishSpawnrateJF = 0.5
 lootChestsJF = true
+
 [RSMainConfig.igloos]
-blacklistedIglooBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedIglooBiomes = ""
 grassyIglooSpawnrate = 20
 addGrassyIglooToModdedBiomes = false
 stoneIglooSpawnrate = 20
 addStoneIglooToModdedBiomes = false
 [RSTemplesConfig.temples]
-blacklistedTempleBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedTempleBiomes = ""
 netherWastelandTempleSpawnrate = 29
 addNetherWastelandTempleToModdedBiomes = false
 netherBasaltTempleSpawnrate = 29
@@ -72,7 +77,7 @@ addNetherWarpedTempleToModdedBiomes = false
 netherSoulTempleSpawnrate = 29
 addNetherSoulTempleToModdedBiomes = false
 [RSTemplesConfig.pyramids]
-blacklistedPyramidBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedPyramidBiomes = ""
 netherPyramidSpawnrate = 37
 addNetherPyramidToModdedBiomes = true
 badlandsPyramidSpawnrate = 20
@@ -80,7 +85,7 @@ addBadlandsPyramidToModdedBiomes = true
 [RSMineshaftsConfig]
 lootChestsMS = true
 addMineshaftsToModdedBiomes = true
-blacklistedMineshaftBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedMineshaftBiomes = ""
 
 [RSMineshaftsConfig.spawnrate]
 birchMineshaftSpawnrate = 40
@@ -127,7 +132,7 @@ barrensIslandsEndMineshafts = false
 strongholdSizeSH = 100.0
 allowExtraSpawnersSH = true
 lootChestsSH = true
-blacklistedStrongholdBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedStrongholdBiomes = ""
 
 [RSStrongholdsConfig.stonebrick]
 allowStonebrickStronghold = true
@@ -145,7 +150,7 @@ netherStrongholdMinHeight = 33
 netherStrongholdMaxHeight = 36
 netherStrongholdChainSpawnrate = 50
 [RSOutpostsConfig]
-blacklistedOutpostBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedOutpostBiomes = ""
 
 [RSOutpostsConfig.outposts]
 netherBrickOutpostSpawnrate = 33
@@ -156,7 +161,7 @@ crimsonOutpostSpawnrate = 33
 addCrimsonOutpostToModdedBiomes = true
 [RSVillagesConfig]
 addVillagesToModdedBiomes = true
-blacklistedVillageBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedVillageBiomes = ""
 badlandsVillageSpawnrate = 17
 birchVillageSpawnrate = 28
 darkForestVillageSpawnrate = 28
@@ -168,7 +173,7 @@ crimsonVillageSpawnrate = 27
 warpedVillageSpawnrate = 27
 [RSWellsConfig]
 addWellsToModdedBiomes = true
-blacklistedWellBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedWellBiomes = ""
 canHaveBells = true
 
 [RSWellsConfig.spawnrate]
@@ -178,7 +183,7 @@ snowWellSpawnrate = 350
 mossyStoneWellSpawnrate = 350
 forestWellSpawnrate = 350
 [RSShipwrecksConfig.blacklist]
-blacklistedShipwreckBiomes = "hotm:thinking_forest,hotm:wasteland"
+blacklistedShipwreckBiomes = ""
 addEndShipwreckToModdedBiomes = true
 addNetherBricksShipwreckToModdedBiomes = true
 addCrimsonShipwreckToModdedBiomes = true

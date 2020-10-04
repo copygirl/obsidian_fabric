@@ -1,6 +1,6 @@
 title     = "obsidian 1.16 Fabric Modpack"
 authors   = listOf("copygirl")
-version   = "0.2.0"
+version   = "0.2.1"
 icon      = rootFolder.resolve("icon.png")
 
 mcVersion = "1.16.3"
@@ -30,11 +30,8 @@ root<Curse> {
 
         // Tweaks and Utilities
         +Mod.appleskin              // Displays hunger/saturation information
-        // TODO: Voodoo can't grab "additional files"
-        //+Mod.chainsLink             // Pistons move connected chain blocks
         +Mod.darkLoadingScreen      // Red is dead!
         +Mod.hwyla                  // Shows what you're looking at
-        +Mod.overpoweredMending     // Repairs all mending items in inventory
         +Mod.roughlyEnoughItems     // Like JEI, displays recipes and uses
         +Mod.roughlyEnoughResources // Like JER, displays block and mob drops
         +Mod.shulkerboxtooltip      // Show shulker box contents when hovering over them
@@ -42,11 +39,12 @@ root<Curse> {
         // Gameplay Changes
         +Mod.anvilFix              { common.validMcVersions = setOf("1.16.1") }
                                    // Removes the "Too Expensive" limit
-        // TODO: Not compatible with 1.16.3
-        // +Mod.chainsLink            // Pistons move connected chain blocks
+        +Mod.bowInfinityFix        // Removes arrow requirement on Infinity bows
+        +Mod.chainsLink            // Pistons move connected chain blocks
         +Mod.editSign              // Allow editing signs in-place
         +Mod.fairenchanting        // Pay fairly in XP, rather than levels
         +Mod.grindEnchantments     // Use Grindstone to disenchant onto books
+        +Mod.overpoweredMending    // Repairs all mending items in inventory
         +Mod.stackablepotions      // Stack potions up to 16
         +Mod.suitablyStackableStew // Stews stack up to 16
 
