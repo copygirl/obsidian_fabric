@@ -1,6 +1,6 @@
 title     = "obsidian 1.16 Fabric Modpack"
 authors   = listOf("copygirl")
-version   = "0.2.1"
+version   = "0.2.2"
 icon      = rootFolder.resolve("icon.png")
 
 mcVersion = "1.16.3"
@@ -64,6 +64,7 @@ root<Curse> {
         +Mod.bambooTweaksFabric        { common.validMcVersions = setOf("1.16.1") }
                                        // Bamboo building blocks
         +Mod.bedspreadsFabric          // Banners on beds
+        +Mod.betterSlabs               // Verticalness for ALL THE SLABS!
         +Mod.colorfulCut               // Slabs, stairs and walls made of concrete and terracotta
         +Mod.modernGlassDoors          // Adds glass door variants of Vanilla doors
         +Mod.ohHowTheCraftingHasTabled // Crafting Tables made of all the woods
@@ -78,6 +79,7 @@ root<Curse> {
         // +Mod.ducts               // Expanding on Hoppers
         +Mod.immersivePortalsMod // See-through portals and seamless travel
         +Mod.linkedStorage       // Basically Ender Storage
+        +Mod.mooblooms           // Mooshrooms, but with flowers
         +Mod.netheriteHorseArmor // Upgrade diamond horse armor to netherite tier
         +Mod.respawnablePets     // Item that allows your pets to respawn when sleeping
         +Mod.rswires             // RedPower2-like redstones wires and bundled cables
@@ -109,6 +111,7 @@ root<Curse> {
             +Mod.modmenu
             +Mod.betterEnchantedBooks // Unique looks for different enchantment books
             +Mod.chatHeads            // See players' heads next to their chat messages
+            +Mod.clickthrough         // Click through signs and item frames on containers
             +Mod.controllingForFabric // Improves controls with search, showing conflicts
             +Mod.illuminations        // Adds pretty-looking glowing parties
             +Mod.lightOverlay         // Show blocks mobs can spawn by pressing F7
