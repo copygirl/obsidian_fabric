@@ -57,7 +57,6 @@ root<Curse> {
         +Mod.heartOfTheMachine          // Dimension of abandoned machineries
         +Mod.ohTheBiomesYoullGoFabric   // Over 70 varied biomes
         +Mod.repurposedStructuresFabric // More structures and variants
-        +Mod.theBumblezoneFabric        // Dimension full of beeeeeees!
 
         // Decoration
         +Mod.adorn                     // Decorate your home!
