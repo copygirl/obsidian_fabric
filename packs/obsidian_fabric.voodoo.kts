@@ -1,6 +1,6 @@
 title     = "obsidian 1.16 Fabric Modpack"
 authors   = listOf("copygirl")
-version   = "0.2.3"
+version   = "0.3.0"
 icon      = rootFolder.resolve("icon.png")
 
 mcVersion = "1.16.3"
@@ -22,7 +22,7 @@ root<Curse> {
 
         // Libraries
         +Mod.dataLoader { common.validMcVersions = setOf("1.16.1") }
-                        // Allows loading datapacks from config/datapacks/
+                        // Allows loading datapacks from `config/datapacks/`
 
         // Optimization and Fixes
         +Mod.lithium // General-purpose server optimization
@@ -31,17 +31,17 @@ root<Curse> {
         // Tweaks and Utilities
         +Mod.appleskin              // Displays hunger/saturation information
         +Mod.darkLoadingScreen      // Red is dead!
+        +Mod.drogtor                // Nicknames and colored names
         +Mod.hwyla                  // Shows what you're looking at
         +Mod.roughlyEnoughItems     // Like JEI, displays recipes and uses
         +Mod.roughlyEnoughResources // Like JER, displays block and mob drops
         +Mod.shulkerboxtooltip      // Show shulker box contents when hovering over them
 
         // Gameplay Changes
-        +Mod.anvilFix              { common.validMcVersions = setOf("1.16.1") }
-                                   // Removes the "Too Expensive" limit
-        +Mod.bowInfinityFix        // Removes arrow requirement on Infinity bows
         +Mod.chainsLink            // Pistons move connected chain blocks
         +Mod.editSign              // Allow editing signs in-place
+        +(ProjectID(414445))
+        // +Mod.fabrication           // Collection of different gameplay tweaks
         +Mod.fairenchanting        // Pay fairly in XP, rather than levels
         +Mod.grindEnchantments     // Use Grindstone to disenchant onto books
         +Mod.overpoweredMending    // Repairs all mending items in inventory
