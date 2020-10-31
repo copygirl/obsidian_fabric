@@ -90,6 +90,11 @@ root<Curse> {
         +Mod.woodcutter          { common.validMcVersions = setOf("1.16.1") }
                                  // Like the Stonecutter, but for wood!
 
+        withTypeClass(Direct::class) {  }.list {
+            // Pouches that can store farmables and plant / feed in a 3x3
+            +"pocketbags" { url = "https://github.com/copygirl/PocketBags/releases/download/v1.0.1/PocketBags-1.16.3-1.0.1.jar" }
+        }
+
         // Technology
         +Mod.astromineMain // Space!
         +Mod.techreborn    // IndustrialCraft inspired technology mod
