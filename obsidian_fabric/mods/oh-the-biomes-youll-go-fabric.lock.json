@@ -1,6 +1,11 @@
 {
     "type": "curse",
+    "common": {
+        "dependencies": {
+            "fabric-api": "REQUIRED"
+        }
+    },
     "projectID": 391378,
-    "fileID": 3090260,
+    "fileID": 3097813,
     "skipFingerprintCheck": true
 }
