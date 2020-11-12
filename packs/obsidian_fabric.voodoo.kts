@@ -1,9 +1,9 @@
 title     = "obsidian 1.16 Fabric Modpack"
 authors   = listOf("copygirl")
-version   = "0.3.2"
+version   = "0.3.3"
 icon      = rootFolder.resolve("icon.png")
 
-mcVersion = "1.16.3"
+mcVersion = "1.16.4"
 modloader { fabric(Fabric.intermediary.v_1_16_3) }
 
 pack {
@@ -17,7 +17,7 @@ root<Curse> {
 
     // COMMON MODS
     it.list {
-        common.validMcVersions   = setOf("1.16.2")
+        common.validMcVersions   = setOf("1.16.2", "1.16.3")
         common.invalidMcVersions = setOf("Forge")
 
         // Libraries
@@ -94,7 +94,7 @@ root<Curse> {
             // Simple hopper-like blocks to move items around more efficiently
             +"ducts" { url = "https://github.com/copygirl/PocketBags/releases/download/v1.1.0-rc.1/PocketBags-1.16.3-1.1.0-rc.1.jar" }
             // Pouches that can store farmables and plant / feed in a 3x3
-            +"pocketbags" { url = "https://github.com/copygirl/PocketBags/releases/download/v1.0.1/PocketBags-1.16.3-1.0.1.jar" }
+            +"pocketbags" { url = "https://github.com/copygirl/PocketBags/releases/download/v1.1.0-rc.1/PocketBags-1.16.3-1.1.0-rc.1.jar" }
         }
 
         // Technology

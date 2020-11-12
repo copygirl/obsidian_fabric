@@ -1,6 +1,6 @@
 {
     "id": "obsidian_fabric",
-    "mcVersion": "1.16.3",
+    "mcVersion": "1.16.4",
     "modloader": {
         "type": "modloader.Fabric",
         "loader": "0.10.6+build.214",
@@ -8,7 +8,7 @@
         "installer": "0.6.1.51"
     },
     "title": "obsidian 1.16 Fabric Modpack",
-    "version": "0.3.2",
+    "version": "0.3.3",
     "authors": [
         "copygirl"
     ],
