@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": {
-    "item": "byg:mahogany_planks"
-  },
-  "result": "byg:mahogany_sign",
-  "count": 1
-}

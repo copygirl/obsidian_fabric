@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:cypress_planks"
+  },
+  "result": "adorn:byg/cypress_table",
+  "count": 2
+}

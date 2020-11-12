@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": {
-    "tag": "byg:palo_verde_logs"
-  },
-  "result": "byg:palo_verde_planks",
-  "count": 6
-}

@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": {
-    "item": "byg:cypress_planks"
-  },
-  "result": "byg:cypress_sign",
-  "count": 1
-}

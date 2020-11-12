@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:ether_logs"
+  },
+  "result": "byg:ether_planks",
+  "count": 6
+}

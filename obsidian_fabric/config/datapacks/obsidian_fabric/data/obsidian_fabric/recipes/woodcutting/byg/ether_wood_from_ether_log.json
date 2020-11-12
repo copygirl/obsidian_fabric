@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:ether_log"
+  },
+  "result": "byg:ether_wood",
+  "count": 1
+}

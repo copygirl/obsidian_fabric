@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": {
-    "item": "byg:palo_verde_planks"
-  },
-  "result": "byg:palo_verde_fence",
-  "count": 1
-}

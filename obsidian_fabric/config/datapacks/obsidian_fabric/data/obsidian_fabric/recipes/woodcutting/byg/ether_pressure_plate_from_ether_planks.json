@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:ether_planks"
+  },
+  "result": "byg:ether_pressure_plate",
+  "count": 1
+}

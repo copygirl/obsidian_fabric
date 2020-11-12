@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:mahogany_planks"
+  },
+  "result": "adorn:byg/mahogany_platform",
+  "count": 1
+}

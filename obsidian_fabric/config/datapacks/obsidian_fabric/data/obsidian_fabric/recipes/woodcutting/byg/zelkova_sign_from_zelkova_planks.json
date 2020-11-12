@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": {
-    "item": "byg:zelkova_planks"
-  },
-  "result": "byg:zelkova_sign",
-  "count": 1
-}

@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:aspen_planks"
+  },
+  "result": "adorn:byg/aspen_step",
+  "count": 2
+}

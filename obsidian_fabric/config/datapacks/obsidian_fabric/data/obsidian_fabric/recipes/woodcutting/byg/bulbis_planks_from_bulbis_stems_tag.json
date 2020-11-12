@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:bulbis_stems"
+  },
+  "result": "byg:bulbis_planks",
+  "count": 6
+}

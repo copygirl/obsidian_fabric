@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:stripped_lament_log"
+  },
+  "result": "byg:stripped_lament_wood",
+  "count": 1
+}

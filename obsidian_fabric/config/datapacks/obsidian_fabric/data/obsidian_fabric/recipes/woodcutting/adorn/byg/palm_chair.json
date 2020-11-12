@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:palm_planks"
+  },
+  "result": "adorn:byg/palm_chair",
+  "count": 1
+}

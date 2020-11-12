@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:jacaranda_planks"
+  },
+  "result": "adorn:byg/jacaranda_chair",
+  "count": 1
+}

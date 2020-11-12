@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:zelkova_planks"
+  },
+  "result": "adorn:byg/zelkova_chair",
+  "count": 1
+}

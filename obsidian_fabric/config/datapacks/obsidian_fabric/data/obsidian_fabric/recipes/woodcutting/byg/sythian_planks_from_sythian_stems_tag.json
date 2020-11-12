@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "byg:sythian_stems"
+  },
+  "result": "byg:sythian_planks",
+  "count": 6
+}

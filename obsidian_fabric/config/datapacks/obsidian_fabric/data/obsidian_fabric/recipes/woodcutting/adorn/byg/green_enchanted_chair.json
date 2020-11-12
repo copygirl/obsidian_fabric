@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:green_enchanted_planks"
+  },
+  "result": "adorn:byg/green_enchanted_chair",
+  "count": 1
+}

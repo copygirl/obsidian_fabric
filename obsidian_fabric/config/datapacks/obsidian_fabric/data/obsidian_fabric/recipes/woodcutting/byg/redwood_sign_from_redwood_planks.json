@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": {
-    "item": "byg:redwood_planks"
-  },
-  "result": "byg:redwood_sign",
-  "count": 1
-}

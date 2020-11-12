@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": {
-    "item": "byg:willow_planks"
-  },
-  "result": "byg:willow_sign",
-  "count": 1
-}
