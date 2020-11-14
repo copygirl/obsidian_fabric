@@ -4,7 +4,7 @@ version   = "0.3.3"
 icon      = rootFolder.resolve("icon.png")
 
 mcVersion = "1.16.4"
-modloader { fabric(Fabric.intermediary.v_1_16_3) }
+modloader { fabric(Fabric.intermediary.v_1_16_4) }
 
 pack {
     multimc {
@@ -92,7 +92,7 @@ root<Curse> {
 
         withTypeClass(Direct::class) {  }.list {
             // Simple hopper-like blocks to move items around more efficiently
-            +"ducts" { url = "https://github.com/copygirl/PocketBags/releases/download/v1.1.0-rc.1/PocketBags-1.16.3-1.1.0-rc.1.jar" }
+            +"ducts" { url = "https://github.com/BrekiTomasson/Ducts/releases/download/v1.0.2/ducts-1.0.2.jar" }
             // Pouches that can store farmables and plant / feed in a 3x3
             +"pocketbags" { url = "https://github.com/copygirl/PocketBags/releases/download/v1.1.0-rc.1/PocketBags-1.16.3-1.1.0-rc.1.jar" }
         }
