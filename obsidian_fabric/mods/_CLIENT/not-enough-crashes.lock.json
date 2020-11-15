@@ -1,0 +1,13 @@
+{
+    "type": "curse",
+    "common": {
+        "side": "CLIENT",
+        "description": "Keep playing on a crash & better crash reports",
+        "optionalData": {
+            "selected": true
+        }
+    },
+    "projectID": 353890,
+    "fileID": 3112069,
+    "skipFingerprintCheck": true
+}

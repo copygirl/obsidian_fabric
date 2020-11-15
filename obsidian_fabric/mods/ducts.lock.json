@@ -1,4 +1,6 @@
 {
-    "type": "direct",
-    "url": "https://github.com/BrekiTomasson/Ducts/releases/download/v1.0.2/ducts-1.0.2.jar"
+    "type": "curse",
+    "projectID": 400219,
+    "fileID": 3112010,
+    "skipFingerprintCheck": true
 }

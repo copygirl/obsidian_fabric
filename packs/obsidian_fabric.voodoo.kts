@@ -73,8 +73,7 @@ root<Curse> {
                                  // Expanding on Aquatic Update content
         +Mod.campanion           // Camping companion mod adding various things
         +Mod.doubleJumpMod       // Enchantment (level I to III) that adds double-jumps
-        // TODO: Needs to be updated to newer Minecraft
-        // +Mod.ducts               // Expanding on Hoppers
+        +Mod.ducts               // Hopper-like blocks to move items around more efficiently
         +Mod.immersivePortalsMod // See-through portals and seamless travel
         +Mod.linkedStorage       // Basically Ender Storage
         +Mod.mooblooms           // Mooshrooms, but with flowers
@@ -90,8 +89,6 @@ root<Curse> {
                                  // Like the Stonecutter, but for wood!
 
         withTypeClass(Direct::class) {  }.list {
-            // Simple hopper-like blocks to move items around more efficiently
-            +"ducts" { url = "https://github.com/BrekiTomasson/Ducts/releases/download/v1.0.2/ducts-1.0.2.jar" }
             // Pouches that can store farmables and plant / feed in a 3x3
             +"pocketbags" { url = "https://github.com/copygirl/PocketBags/releases/download/v1.1.0-rc.1/PocketBags-1.16.3-1.1.0-rc.1.jar" }
         }
@@ -128,6 +125,7 @@ root<Curse> {
             }.list {
                 +Mod.dynamicSoundFilters { description = "Affects how sounds are played depending on location" }
                 +Mod.itemScroller        { description = "Use scroll wheel and other shortcuts to move items" }
+                +Mod.notEnoughCrashes    { description = "Keep playing on a crash & better crash reports" }
                 +Mod.presenceFootsteps   { description = "Footstep and shuffling sounds depending on materials" }
                 // TODO: Immersive Portals not supported (yet?)
                 // +Mod.sodium              { description = "Render engine replacement (high FPS boost)" }
