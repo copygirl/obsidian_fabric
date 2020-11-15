@@ -21,5 +21,5 @@ voodoo {
 
     generatedSourceShared { rootFolder -> rootFolder.resolve("src/main/kotlin") }
     generateFabric("Fabric", stable = true)
-    generateCurseforgeMods("Mod", "1.16", "1.16.1", "1.16.2", categories = listOf("Fabric"))
+    generateCurseforgeMods("Mod", "1.16.1", "1.16.2", "1.16.3", "1.16.4", categories = listOf("Fabric"))
 }

@@ -40,8 +40,7 @@ root<Curse> {
         // Gameplay Changes
         +Mod.chainsLink            // Pistons move connected chain blocks
         +Mod.editSign              // Allow editing signs in-place
-        +(ProjectID(414445))
-        // +Mod.fabrication           // Collection of different gameplay tweaks
+        +Mod.fabrication           // Collection of different gameplay tweaks
         +Mod.fairenchanting        // Pay fairly in XP, rather than levels
         +Mod.grindEnchantments     // Use Grindstone to disenchant onto books
         +Mod.overpoweredMending    // Repairs all mending items in inventory
